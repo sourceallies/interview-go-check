@@ -23,8 +23,8 @@ go test
 ## Acceptance Criteria
 Make the tests pass. Only update code in the `main.go` or `main_test.go` files.
 
-When you run the application, you should see `Hello World` printed to the console. Run the application as follows:
+When you run the application, you should see `Hello world!` printed to the console. Run the application as follows:
 
 ```
-go run
+go run main.go
 ```
