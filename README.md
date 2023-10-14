@@ -1,4 +1,6 @@
-# Interview Check (Golang)
+# This repository is now deprecated.  Please see the [interviews](https://github.com/sourceallies/interviews) repository instead.
+
+## Interview Check (Golang)
 
 For more information about our interview setup, please refer to the following documentation:
 https://github.com/sourceallies/interviews/blob/main/docs/interview-environment.md
